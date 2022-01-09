@@ -27,3 +27,4 @@ https://youtu.be/AOKM9BkweVU
 
 
 
+EDIT: This approach was made in April 2021 using Qiskit Version 0.24. As of Jan 2022, Qiskit is at version 0.34 and essential functions used to generate circuits in this code have been changed. 
