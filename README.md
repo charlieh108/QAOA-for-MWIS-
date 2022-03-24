@@ -3,6 +3,8 @@ Application of the Quantum Approximate Optimisation Algorithm to the Maximum Wei
 
 This some of of the code used to produce my Masters research to allow for replication.
 
+The main script of note is 'Optimum Angle Finder'.
+
 I've also included my final report (or rather a draft of my final report - enjoy the spelling mistakes!). 
 
 'Contours.py' allows replication of Figures 3.2 & 3.3. 
